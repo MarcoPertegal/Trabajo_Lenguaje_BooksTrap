@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+main div img{
+    width: 100%;
+}
+.carousel-inner{
+    background-color: #bab7b7;
+}
+#demo img{
+    width: 50%;
+}
