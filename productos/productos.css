@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
 }
 main div a{
     padding-top: 50%;
@@ -10,6 +11,9 @@ main div a{
     color: white;
     padding-bottom: 3%;
     padding-left: 3%;
+}
+nav div a img{
+    width: 120px;
 }
 a{
     text-decoration: none;
