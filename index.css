@@ -32,6 +32,12 @@ main{
     font-size: 46px;
     line-height: 40px;
 }
+.anuncioPortadaSubtitulo{
+    font-size: 20px;
+}
+main a{
+    font-size: 20px;
+}
 footer{
     background-color: #01222F;
     padding-top: 2.5%;

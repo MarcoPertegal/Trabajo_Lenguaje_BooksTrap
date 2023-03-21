@@ -1,0 +1,9 @@
+Debido a que la página web consta de muchos enlaces a diferentes productos he 
+información por falta de tiempo solo funcionarán algunos enlaces:
+- Portada: apartado de productos del nav y el enlace visita nuestra tienda de la
+	imagen de la portada.
+- Productos: apartado de inicio y productos del nav y la primera imagen de las 
+	mesas de los productos.
+- MesaDeCampo: apartado de inicio y productos del main y el botón del final de la página
+	de comprar.
+-Formulario: apartado de inicio y productos del main

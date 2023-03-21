@@ -38,12 +38,19 @@ main div a:hover{
 }
 .producto5{
     background-image: url(../img/tocadiscos.jpg);
-    background-position-y: 30%;
-    background-position-x: 150px;
-    width: 80%;
+    background-position-y: 40%;
+    width: 90%;
+    color: black;
+}
+.producto6{
+    background-image: url(../img/setTrabajo.jpg);
+    background-position-y: 100%;
     color: black;
 }
 .producto5:hover{
+    color: black;
+}
+.producto6:hover{
     color: black;
 }
 footer{

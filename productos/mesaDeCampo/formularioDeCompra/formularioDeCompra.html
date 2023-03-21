@@ -46,21 +46,29 @@
             <form action="/action_page.php">
                 <div class="mb-3 mt-3">
                     <label for="email" class="form-label">Nombre:</label>
-                    <input type="text" class="form-control" id="nombre" placeholder="nombre" name="nombre">
+                    <input type="text" class="form-control" id="nombre" placeholder="" name="nombre">
                 </div>
                 <div class="mb-3 mt-3">
                     <label for="email" class="form-label">Correo:</label>
-                    <input type="email" class="form-control" id="email" placeholder="correo" name="email">
+                    <input type="email" class="form-control" id="email" placeholder="" name="email">
                 </div>
                 <div class="mb-3">
                     <label for="pwd" class="form-label">Contraseña:</label>
-                    <input type="password" class="form-control" id="pwd" placeholder="contraseña" name="pswd">
+                    <input type="password" class="form-control" id="pwd" placeholder="" name="pswd">
+                </div>
+                <div class="mb-3">
+                    <label for="pwd" class="form-label">Repetir Contraseña:</label>
+                    <input type="password" class="form-control" id="pwd" placeholder="" name="pswd">
                 </div>
                 <div class="form-check mb-3">
                     <label class="form-check-label">
-                        <input class="form-check-input" type="checkbox" name="remember">Acepto la política de privacidad
+                        <input class="form-check-input" type="checkbox" name="remember">Acepto la política de privacidad.
                     </label>
-                    
+                </div>
+                <div class="form-check mb-3">
+                    <label class="form-check-label">
+                        <input class="form-check-input" type="checkbox" name="remember">Deseo recibir correos con información y novedades.
+                    </label>
                 </div>
                 <button type="submit" class="btn btn-primary">iniciar sesión</button>
             </form>
