@@ -1,12 +1,13 @@
 @font-face {
-    font-family: 'Helvetica-light';
-    src: url("../../fonts/Helvetica-light.ttf");
+    font-family: "HelveticaLight";
+    src: url('../../fonts/HelveticaLight.ttf');
 }
 *{
     box-sizing: border-box;
 }
 body{
-    font-family: 'Helvetica-light';
+    font-family: 'HelveticaLight';
+    font-family: Helvetica, sans-serif;
 }
 nav div a img{
     width: 120px;
@@ -47,5 +48,27 @@ footer a{
     color: white;
 }
 footer a:hover{
+    color: white;
+}
+.especificaciones .col-8 img{
+    width: 75%;
+}
+.especificaciones{
+    font-size: 30pt;
+    margin-left: 5%;
+}
+.especificaciones span{
+    margin-left: 6%;
+}
+.mesas{
+    margin-bottom: 3%;
+}
+.d-grid{
+    margin-bottom: 3%;
+}
+.d-grid a{
+    color: white;
+}
+.d-grid a:hover{
     color: white;
 }
